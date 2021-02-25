@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Slash FruitPit</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_play">Play</string>
+    <string name="button_musicOn">Play</string>
+    <string name="button_musicOff">Pause</string>
+    <string name="playerNameSet">Player\'s Name :</string>
+    <string name="score">Score : %1$s </string>
+    <string name="playerName">Player : %1$s </string>
+    <string name="gameRules">Game rules</string>
+    <string name="regle_fruit">Slash fruits in order to increase your score</string>
+    <string name="regle_guns">Be careful, Guns and Roses make you lose points !!!</string>
+    <string name="regle_sabre">After an amount of cutted fruits, sabers will appear. Use device tilt to cut fruits with it. It will bring you more points.
+                                But be careful with Guns\'n\'Roses… :)</string>
+</resources>
+
+

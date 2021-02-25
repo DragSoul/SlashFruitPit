@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slash FruitPit</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_play">Play</string>
+    <string name="button_musicOn">Play</string>
+    <string name="button_musicOff">Pause</string>
+    <string name="playerNameSet">Nom du joueur :</string>
+    <string name="score">Score : %1$s </string>
+    <string name="playerName">Joueur : %1$s </string>
+    <string name="gameRules">Règles</string>
+    <string name="regle_fruit">Coupez les fruits afin d\'augmenter votre score</string>
+    <string name="regle_guns">Faites attention aux guns and roses, ils vous font perdre des points !!!</string>
+    <string name="regle_sabre">Après un certain nombre de fruits coupés, des sabres apparaîtront. Utilisez l\'inclinaison de votre téléphone pour couper les fruits avec. Cela vous rapportera plus de points.
+                                Mais attention aux Guns\'n\'Roses… :)</string>
+</resources>
